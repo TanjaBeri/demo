@@ -1,2 +1,6 @@
 # demo
-prvi put stavljam na gut, proba.
+prvi put stavljam na Git, proba.
+
+## druga promena
+
+Dodajem novi kod.
